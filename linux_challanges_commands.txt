@@ -1,0 +1,67 @@
+challange 1
+
+ls - list
+pwd - location
+mkdir workspace 
+cd workspace
+ls
+touch README.md
+cp README.md CHANGELOG.md
+
+
+--------------------------------------------------
+Challange 2
+
+ mv exercise.md ../../../tmp
+rm /home/../tmp/exercise.md
+
+
+-------------------------------
+
+challange 3
+touch umuzi.md
+touch recruits.md
+touch cohort.md
+
+cat umuzi.md >> summary.md 
+ cat recruits.md >> summary.md 
+ cat cohort.md >> summary.md
+
+-----------------------------
+chalange 4
+
+locate umuzi
+touch search_result.md
+locate umuzi >> search_result.md
+
+-----------------------------------------------
+
+challange 5
+
+- touch pad.md
+- cd ../Desktop
+mkdir work
+cd work 
+cp ../../Documents/pad.md pad_copy.md
+sudo updatedb
+cd
+locate pad_copy.md
+
+-------------------------------
+
+challange 6
+
+locate *.pdf
+touch search_results.md
+locate *.pdf > search_results.md
+
+---------------------------------
+challange 7
+
+ nano my_bio.md
+mkdir my_files
+mv my_bio.md my_files
+
+
+
+
